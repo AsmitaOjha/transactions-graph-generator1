@@ -4,6 +4,7 @@ output/
 output1/
 .vscode/
 simple-transactions-generator/
+dataset/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
